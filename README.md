@@ -1,7 +1,7 @@
  
-#Landscape Reports
+# Landscape Reports
 
-##Using Maps (Hash Maps / Tree Maps)
+## Using Maps (Hash Maps / Tree Maps)
 
 We have been hired by a landscape company to analyze their data to give them important reports. They have an application that employees use to record their working data, and this application exports this data onto a .csv file.
 
